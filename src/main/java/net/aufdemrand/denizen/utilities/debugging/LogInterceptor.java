@@ -13,7 +13,6 @@ import org.apache.logging.log4j.message.Message;
 import org.apache.logging.log4j.spi.AbstractLogger;
 import org.apache.logging.log4j.spi.AbstractLoggerWrapper;
 import org.bukkit.ChatColor;
-import org.bukkit.craftbukkit.v1_10_R1.LoggerOutputStream;
 
 import java.io.PrintStream;
 import java.util.Arrays;
